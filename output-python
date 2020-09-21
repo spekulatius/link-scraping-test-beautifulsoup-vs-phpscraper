@@ -1,0 +1,25 @@
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do python3 python3-beautifulsoup-link-extractor/link-extractor.py "$url"; done < urls
+
+real    0m21.162s
+user    0m5.173s
+sys 0m0.477s
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do python3 python3-beautifulsoup-link-extractor/link-extractor.py "$url"; done < urls
+
+real    0m19.239s
+user    0m4.523s
+sys 0m0.462s
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do python3 python3-beautifulsoup-link-extractor/link-extractor.py "$url"; done < urls
+
+real    0m16.001s
+user    0m4.802s
+sys 0m0.422s
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do python3 python3-beautifulsoup-link-extractor/link-extractor.py "$url"; done < urls
+
+real    0m14.926s
+user    0m4.533s
+sys 0m0.472s
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do python3 python3-beautifulsoup-link-extractor/link-extractor.py "$url"; done < urls
+
+real    0m16.457s
+user    0m4.536s
+sys 0m0.486s

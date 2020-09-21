@@ -1,0 +1,25 @@
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do php phpscraper-link-extractor/link-extractor.php "$url"; done < urls
+
+real    0m12.419s
+user    0m1.679s
+sys 0m0.590s
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do php phpscraper-link-extractor/link-extractor.php "$url"; done < urls
+
+real    0m12.718s
+user    0m1.620s
+sys 0m0.589s
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do php phpscraper-link-extractor/link-extractor.php "$url"; done < urls
+
+real    0m10.480s
+user    0m1.741s
+sys 0m0.504s
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do php phpscraper-link-extractor/link-extractor.php "$url"; done < urls
+
+real    0m12.605s
+user    0m1.610s
+sys 0m0.534s
+forge@lingering-sound:~/link-scraping-test-beautifulsoup-vs-phpscraper$ time while read url; do php phpscraper-link-extractor/link-extractor.php "$url"; done < urls
+
+real    0m12.192s
+user    0m1.583s
+sys 0m0.649s
