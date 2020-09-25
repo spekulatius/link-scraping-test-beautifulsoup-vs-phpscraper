@@ -1,4 +1,4 @@
-# PHPScraper and Python3 Beautifulsoup in Comparison
+# PHPScraper and Python3 BeautifulSoup in Comparison
 
 A while ago I found [Goutte](https://github.com/FriendsOfPHP/Goutte) by the [Symfony Team](https://symfony.com) on one of my [scouting missions on GitHub](https://github.com/spekulatius/web-stuff). It's a really neat library, assisting anyone scraping websites or simply processing some data coming from external websites. While working with Goutte for a bit, I noticed I abstracted parts of the functionality again and again. After building up a bunch of helpers I copied from project to project, I made a call to migrate these into a library. [PHPScraper](https://github.com/spekulatius/PHPScraper) was born. It was my solution to reduce the coding overhead in PHP.
 
