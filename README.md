@@ -26,7 +26,7 @@ The fifth part is actually simplified - the data will be processed further, but 
 Scraping Links with Python 3 and BeautifulSoup 4
 ------------------------------------------------
 
-As mentioned initially, my Python knowledge is limited and Google had to assist me here and there. The various package managers and strong differences between Python 2 and 3 made it more a little more work than anticipated. While the source code probably still could be optimized further, it fulfils the requirements. All in all, the source code is still simple and not too long:
+As mentioned initially, my Python knowledge is limited and Google had to assist me here and there. The various package managers and strong differences between Python 2 and 3 made it more a little more work than anticipated. While the source code probably still could be optimized further, it fulfills the requirements. All in all, the source code is still simple and not too long:
 
 ```py
 from bs4 import BeautifulSoup
